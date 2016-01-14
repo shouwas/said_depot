@@ -17,7 +17,7 @@ public class main {
         
         // TODO code application logic here
         
-        System.out.println("Hello world 4");
+        System.out.println("Hello world");
     }
     
 }
